@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyListview</string>
+    <string name="add">添加</string>
+    <string name="add_recy">add_recy</string>
+    <string name="listview">listview</string>
+    <string name="recyclerview">recyclerview</string>
+    <string name="query">查询</string>
+    <string name="songname">歌曲</string>
+    <string name="singer">歌手</string>
+    <string name="input">输入歌曲或歌手</string>
+    <string name="click">请点右上角，然后点击ListView</string>
+</resources>
